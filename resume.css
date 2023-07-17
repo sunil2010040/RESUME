@@ -80,6 +80,7 @@
     }
     
     .section__title {
+        font-size: 20px;
       letter-spacing: 2px;
       color: #000000;
       font-weight: bold;
