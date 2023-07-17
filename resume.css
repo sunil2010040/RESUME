@@ -21,7 +21,7 @@
   
   .container {
     max-width: 700px;   
-    background: #ece1e1;
+    background: #eaeaea;
     margin: 0px auto 0px; 
     box-shadow: 5px 5px 2px #DAD7D7;
     border-radius: 6px;  
@@ -81,7 +81,7 @@
     
     .section__title {
       letter-spacing: 2px;
-      color: #00a1ff;
+      color: #000000;
       font-weight: bold;
       margin-bottom: 10px;
       text-transform: uppercase;
